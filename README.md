@@ -13,6 +13,6 @@ Trabajo práctico sobre estructuras condicionales **(Operadores Relacionales y L
 ## :memo: **Unidad 3**: Estructuras Repetitivas
 
 Trabajo práctico sobre estructuras repetitivas **(While, For, Bucles anidados)**.  
-**Archivo**: [Código de la Unidad 2](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%203/tp1.py)
+**Archivo**: [Código de la Unidad 3](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%203/tp1.py)
 
 </div>
