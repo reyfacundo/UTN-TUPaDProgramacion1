@@ -53,7 +53,7 @@ print(f'Correcto! Intentos: {counter}')
 
 # 6) Desarrolla un programa que imprima en pantalla todos los números pares comprendidos entre 0 y 100, en orden decreciente.
 
-for num in range(100, -1, -1):
+for num in range(100, -1, -2):
     print(num)
 
 # 7) Crea un programa que calcule la suma de todos los números comprendidos entre 0 y un número entero positivo indicado por el usuario
