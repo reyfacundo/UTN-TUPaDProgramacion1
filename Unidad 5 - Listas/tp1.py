@@ -36,6 +36,9 @@ print(products)
 
 sortedProducts = sorted(products)
 
+eliminar = input('Qué producto desea eliminar?')
+products.remove(eliminar)
+
 print(sortedProducts)
 
 # 3) Generar una lista con 15 números enteros al azar entre 1 y 100.
@@ -85,7 +88,7 @@ print(newList)
 # • Mostrar la lista final actualizada.
 
 estudiantes = ["ana", "lucas", "maria",
-               "jorge", "sofia", "pedro", "lucia", "mateo"]
+                "jorge", "sofia", "pedro", "lucia", "mateo"]
 
 print(estudiantes)
 
