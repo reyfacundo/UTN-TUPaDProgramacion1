@@ -65,7 +65,7 @@ else:
     # ● Sesgo positivo o a la derecha: cuando la media es mayor que la mediana y, a su vez, la mediana es mayor que la moda.
     # ● Sesgo negativo o a la izquierda: cuando la media es menor que la mediana y, a su vez, la mediana es menor que la moda.
     # ● Sin sesgo: cuando la media, la mediana y la moda son iguales.
-
+    
 # Teniendo en cuenta lo antes mencionado, escribir un programa que tome la lista numeros_aleatorios, calcule su moda, su mediana y su media y las compare para determinar si hay sesgo positivo, negativo o no hay sesgo. Imprimir el resultado por pantalla.
 
 # Definir la lista numeros_aleatorios de la siguiente forma:
