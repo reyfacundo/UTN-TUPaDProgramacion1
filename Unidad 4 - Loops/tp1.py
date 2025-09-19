@@ -96,7 +96,7 @@ for counter in range(100):
     num = int(input('Ingrese un número entero: '))
     total += num
     count += 1
-
+    
 print(f'La media es: {total/count}')
 
 
