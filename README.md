@@ -24,4 +24,8 @@ Trabajo práctico sobre Listas **(Listas, Matrices y Arrays)**.
 ## :memo: **Unidad 6**: Funciones
 Trabajo práctico sobre Funciones.  
 **Archivo**: [Código de la Unidad 6](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%206%20-%20Funciones/tp1.py)
+
+## :memo: **Unidad 7**: Datos Complejos
+Trabajo práctico sobre Datos Complejos **(Listas, Sets, Tuplas, Diccionarios)**.    
+**Archivo**: [Código de la Unidad 7](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%207%20-%20Datos%20Complejos/tp1.py)
 </div>
