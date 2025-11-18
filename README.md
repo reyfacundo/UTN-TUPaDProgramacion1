@@ -28,4 +28,8 @@ Trabajo práctico sobre Funciones.
 ## :memo: **Unidad 7**: Datos Complejos
 Trabajo práctico sobre Datos Complejos **(Listas, Sets, Tuplas, Diccionarios)**.    
 **Archivo**: [Código de la Unidad 7](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%207%20-%20Datos%20Complejos/tp1.py)
+
+## :memo: **Unidad 8**: Manejo de Archivos
+Trabajo práctico sobre Manejo de Archivos **(Open, With, CSV)**.    
+**Archivo**: [Código de la Unidad 8](https://github.com/reyfacundo/UTN-TUPaDProgramacion1/blob/main/Unidad%208%20-%20Manejo%20de%20Archivos/tp1.py)
 </div>
